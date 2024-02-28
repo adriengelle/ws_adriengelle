@@ -1,10 +1,10 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Alison Hill"
-role: "product + strategy + edu"
+author: "Adrien Gelle"
+role: "PhD student"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name"
+# audio_link_label: "How to say my name"
 link_list_label: "Currently following..." # bookmarks, elsewhere, etc.
 link_list:
 - name: "Scaling People"
