@@ -34,10 +34,10 @@ enableEmoji = true
 
 [params]
   orgName = "Adrien Gelle"
-  orgLocal = ""
+  orgLocal = "United Kingdom"
   description = "Conservation projects I've work on."
-  favicon = "/img/favicon.ico"
-  logo = "/img/penguin.png"
+  favicon = "/img/echoicon.ico"
+  logo = "/img/echo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -86,42 +86,42 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "paper-plane" # icon name without the 'fa-'
-      icon_pack = "fa"
-      url       = "https://theknowledgecache.substack.com"
+  #[[params.social]]
+      #icon      = "paper-plane" # icon name without the 'fa-'
+      #icon_pack = "fa"
+      #url       = "https://theknowledgecache.substack.com"
   [[params.social]]
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/apreshill/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/apreshill"
+      url       = "https://www.linkedin.com/in/adrien-gell%C3%A9-a26733b6/"
+  #[[params.social]]
+      #icon      = "twitter" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://twitter.com/apreshill"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill"
-  [[params.social]]
-      icon      = "youtube" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.youtube.com/@alisonhill"
-    [[params.social]]
-      icon      = "mastodon" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://fosstodon.org/@apreshill"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://github.com/AdrienGelle"
+  #[[params.social]]
+      #icon      = "youtube" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://www.youtube.com/@alisonhill"
+    #[[params.social]]
+      #icon      = "mastodon" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://fosstodon.org/@apreshill"
+  #[[params.social]]
+      #icon      = "impactstory" # icon name without the 'fa-'
+      #icon_pack = "ai"
+      #url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/0009-0006-5654-5335"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=yGD9V6MAAAAJ&hl=en"
+      url       = "https://scholar.google.com/citations?user=CweTZ90AAAAJ&hl=en"
 
 [taxonomies]
   category = "categories"
@@ -131,7 +131,7 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
-    name = "About"
+    name = "About me"
     title = "About me"
     url = "/about/"
     weight = 1
@@ -162,11 +162,11 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "RSS"
-    title = "RSS"
-    url = "/blog/index.xml"
-    weight = 3
+  #[[menu.footer]]
+    #name = "RSS"
+    #title = "RSS"
+    #url = "/blog/index.xml"
+    #weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
