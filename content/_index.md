@@ -1,13 +1,11 @@
 ---
 title: "Adrien Gelle"
-subtitle: "PhD in conservation sciences at Nottingham Trent University,\
-
-...School of Animal, Rural and Environmental Sciences"
+subtitle: "PhD in conservation sciences at Nottingham Trent University, School of Animal, Rural and Environmental Sciences"
 description: "Hi there! I'm a behavioral scientist + former professor turned data scientist + professional educator turned product manager, which makes perfect sense once you get to know me. <br><br>I am passionate about creating software that earns users’ love, and I have a real knack for designing product experiences that shine. Inside, you'll find my writing about products and projects I've worked on, along with reflections about learning, teaching, and crafting kind tech tools."
 images:
   - img/beforemankind.png
-image_left: false
-text_align_left: true
+image_left: true
+text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
