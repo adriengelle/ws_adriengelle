@@ -2,7 +2,7 @@
 date: "2019-01-01T00:00:00Z"
 summary: My experience
 title: "*curriculum vitae*"
-description: "I am a data scientist, behavioral scientist, and award-winning educator. Currently, as the product manager for data science communication at RStudio, I work to make data science communication easier and more delightful using open-source tools."
+description: "I am a PhD student at Nottingham Trent University"
 layout: list-sidebar
 aliases: [bio]
 ---
