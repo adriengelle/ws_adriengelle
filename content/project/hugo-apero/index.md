@@ -4,7 +4,7 @@ external_link: https://www.mauritian-wildlife.org/
 image:
   caption: ''
   focal_point: Smart
-summary: A Hugo theme for personal websites. A place where you and your site’s visitors enjoy spending time, and one that helps folks get to know you better.
+summary: A Mauritius endemic parakeet
 tags:
 - hugo
 - software
