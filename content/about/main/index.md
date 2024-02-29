@@ -10,7 +10,9 @@ intro: |
 show_outro: true
 outro: |
 images:
-  - img/beforemankind.png
+  - students2.jpg
+
+<img src="students2.jpg" class="center-block" alt="Lab meeting" style="width:60%;">
 ---
 
 ** index doesn't contain a body, just front matter above.
