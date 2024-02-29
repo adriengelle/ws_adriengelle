@@ -1,5 +1,5 @@
 ---
-date: "2021-05-23T00:00:00Z"
+date: ""
 external_link: https://hugo-apero.netlify.app
 image:
   caption: ''
