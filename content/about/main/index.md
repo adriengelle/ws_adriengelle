@@ -9,10 +9,6 @@ intro: |
  In 2023 a new journey as PhD student begin! This project would be very important for conservation in my country as it will help the Mauritian Wildlife Foundation to assess the impact of their management on the species survival and findings could be used to inform conservation research and data management elsewhere too.
 show_outro: true
 outro: |
-images:
-  - students2.jpg
-
-<img src="students2.jpg" class="center-block" alt="Lab meeting" style="width:60%;">
 ---
 
 ** index doesn't contain a body, just front matter above.
