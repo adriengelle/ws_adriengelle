@@ -148,7 +148,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Pubs"
-    url = "/talk/"
+    url = "/publication/"
     weight = 4
 
   # Configure footer
