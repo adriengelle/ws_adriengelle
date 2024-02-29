@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "[<i class="ai ai-obp"></i>](pdf/2020_stoceps.pdf)"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
