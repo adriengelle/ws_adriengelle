@@ -5,10 +5,10 @@ image:
   caption: ''
   focal_point: Smart
 summary: A Mauritius endemic parakeet
-tags:
-- hugo
-- software
-title: Hugo Apéro
+#tags:
+#- hugo
+#- software
+title: Echo parakeet
 links:
 - icon: github
   icon_pack: fab
