@@ -4,6 +4,7 @@ subtitle: My contribition to scientific literature
 author: Adrien Gelle
 layout: single-sidebar
 date: "2024-02-29"
+<script src="https://kit.fontawesome.com/4cd9712f70.js" crossorigin="anonymous"></script>
 ---
 
 These are the projects on which I worked
