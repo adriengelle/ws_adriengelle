@@ -17,7 +17,7 @@ In 2017, I graduated from the University of Reunion Island with a BSc in Life Sc
 
 In 2020 I decided to come back to my country and learn more about its endemic species. In my current job as Scientific Data Officer at the [Mauritian Wildlife Foundation](https://www.mauritian-wildlife.org/), I am responsible for the management and data analysis on our threatened endemic bird species: Mauritius Kestrel, Echo Parakeet, Pink Pigeon, Mauritius Fody, and Olive White-Eye. In this role, I also participate in fieldwork (predator control/monitoring), help in the development of monitoring methods and protocols, and I trained staff in data entry and QGIS.
 
-<img src="MWF_field team.jpg" class="center-block" alt="ntu" style="width:60%;">
+<img src="MWF_field team.jpg" class="center-block" alt="mwfteam" style="width:60%;">
 
 Since starting my Master’s degree, I have been very interested in population viability analysis, abundance indices, and population estimates. I was excited to learn about using capture-mark-recapture (CMR) models during my internships, where I worked on population viability and abundance trends concerning the common breeding bird survey (STOC) and on orchids. Now that I am working on data for the endemic bird species of my country, I am more and more interested in using and developing tools to monitor threatened species and to be able to produce more accurate population estimates. These tools are important to be able to detect early warning signs of population decline or atypical demographic rates when working on endangered/critically endangered species like in Mauritius.
 
