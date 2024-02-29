@@ -1,6 +1,6 @@
 ---
 date: "2024-02-29T00:00:00Z"
-external_link: https://hugo-apero.netlify.app
+external_link: https://www.mauritian-wildlife.org/
 image:
   caption: ''
   focal_point: Smart
