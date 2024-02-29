@@ -1,5 +1,9 @@
 ---
 ## Configure header of page
+images:
+  - img/beforemankind.png
+image_left: false
+text_align_left: true
 text_align_right: false
 show_title_as_headline: false
 headline: |
