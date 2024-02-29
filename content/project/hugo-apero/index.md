@@ -10,18 +10,11 @@ summary: A Mauritius endemic parakeet
 #- software
 title: Echo parakeet
 links:
-- icon: github
-  icon_pack: fab
-  name: GitHub Org
-  url: https://github.com/hugo-apero
+
 - icon: book-open
   icon_pack: fas
   name: Docs
-  url: https://hugo-apero-docs.netlify.app
-- icon: flask
-  icon_pack: fas
-  name: Example Site
-  url: https://hugo-apero.netlify.app
+  url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
 ---
 
 Apéro (a-pay-ROH) is a Hugo theme for personal websites. It is more than a blog, with flexible custom layouts that help you introduce yourself online. 
