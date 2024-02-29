@@ -13,6 +13,7 @@ show_social_links: true # specify social accounts in site config
 #  url: https://www.lennysnewsletter.com/
 # - name: "The best TV show's final season"
 # url: https://en.wikipedia.org/wiki/Succession_(TV_series)
+<img src="NTU.png" class="center-block" alt="ntu" style="width:10%;">
 ---
 
 ** index doesn't contain a body, just front matter above.
