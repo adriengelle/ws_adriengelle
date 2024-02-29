@@ -22,4 +22,4 @@ Since starting my Master’s degree, I have been very interested in population v
 I love using programming languages such as R to help NGOs with data analysis and their reproducibility. In 2021 my job at the Mauritian Wildlife Foundation consisted of rebuilding their entire data life cycle (from collection on field, the validation & compilation). For example, I have automated the production of population estimate graphs for five different endemic bird species, which will help to improve accuracy of graphs and reduce time spent in making them manually.
 
 <img src="NTU_Primary_logo.jpg" class="center-block" alt="ntu" style="width:20%;">
-<img src="MWF_logo.jpg" class="center-block" alt="ntu" style="width:20%;">
+<img src="MWF_logo.jpg" class="center-block" alt="mwf" style="width:20%;">
