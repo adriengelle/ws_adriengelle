@@ -31,6 +31,6 @@ supplemental food (Tollington et al., 2018).
 ## Facts
 
 * The only survivor of six parrot species once found in the Mascarenes islands.
-2. Diet: leaves, fruits, flowers and stems of primarily native plant species (also includes exotic species).
-3. Cavity nesters (naturally nesting in cavities in endemic trees).
-4.The Echo Parakeet project is the world’s most successful parrot recovery programme.
+* Diet: leaves, fruits, flowers and stems of primarily native plant species (also includes exotic species).
+* Cavity nesters (naturally nesting in cavities in endemic trees).
+* The Echo Parakeet project is the world’s most successful parrot recovery programme.
