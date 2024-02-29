@@ -22,10 +22,15 @@ seemed imminent by the early 1990s, when the echo parakeet was considered not on
 any group (Collar et al., 1994). However, intensive conservation efforts helped the species to recover from a population size of fewer than 20 individuals in the 1980s (Jones 1987, Jones and Duffy 1993) to over 150 breeding pairs and 800 individuals in 2020 (MWF, 2020). As a result, the species was downlisted on the IUCN Red List twice this century, from Critically Endangered to Endangered in 2007
 (BirdLife International, 2007), and to Vulnerable in 2019 (BirdLife International, 2019).
 
+The conservation success of the echo parakeet was achieved through intensive conservation 
+management (including captive breeding, nest manipulation, installation of artificial nest boxes, 
+supplementary food, predator and competitor control) and monitoring (Jones and Duffy, 1993; Thorsen 
+and Jones, 1998). Population recovery is largely due to the provision of artificial nest boxes (Tatayah et al., 2007) and
+supplemental food (Tollington et al., 2018).
+
 ## Facts
 
-1. The sole survivor of six parrot species once found in the Mascarenes.
-2. Their diet consists of leaves, fruits, flowers and stems of primarily native plant species, but also includes exotic species.
-3. Are secondary cavity nesters, naturally nesting in cavities in emergent endemic trees.
-4. Multiple nest box designs were trialled since the 1970s and was accepted in 2001.
-5. The Echo Parakeet project is the world’s most successful parrot recovery programme.
+* The only survivor of six parrot species once found in the Mascarenes islands.
+2. Diet: leaves, fruits, flowers and stems of primarily native plant species (also includes exotic species).
+3. Cavity nesters (naturally nesting in cavities in endemic trees).
+4.The Echo Parakeet project is the world’s most successful parrot recovery programme.
