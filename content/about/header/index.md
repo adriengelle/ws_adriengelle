@@ -15,7 +15,7 @@ I am from Mauritius Island, the [Lost Land of the Dodo](https://books.google.co.
 
 In 2017, I graduated from the University of Reunion Island with a BSc in Life Sciences. Following this, I was awarded an Excellence Scholarship from the French Government to complete an MSc in Ecology, Biodiversity, and Evolution at Pierre and Marie Curie University (Sciences Sorbonne University) in Paris. I specialised in Conservation Sciences and graduated in 2019. During my studies and research internships at the National Museum of Natural History in Paris, I had the opportunity to acquire various knowledge in population dynamics/viability, biostatistics, GIS and R programming. 
 
-<img src="Students2.jpg" class="center-block" alt="ntu" style="width:10%;">
+<img src="NTU_Primary_logo2.png" class="center-block" alt="ntu" style="width:10%;">
 
 In 2020 I decided to come back to my country and learn more about its endemic species. In my current job as Scientific Data Officer at the Mauritian Wildlife Foundation, I am responsible for the management and data analysis on our threatened endemic bird species: Mauritius Kestrel, Echo Parakeet, Pink Pigeon, Mauritius Fody, and Olive White-Eye. In this role, I also participate in fieldwork (predator control/monitoring), help in the development of monitoring methods and protocols, and I train staff in data entry and QGIS.
 
