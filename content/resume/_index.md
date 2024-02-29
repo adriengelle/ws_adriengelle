@@ -7,3 +7,5 @@ aliases: [bio]
 ---
 Download full PDF here
 [<i class="ai ai-obp"></i>](pdf/cv.pdf)
+
+---
