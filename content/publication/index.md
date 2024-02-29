@@ -17,6 +17,7 @@ Claessens, O., **Gellé, A.**, 2020. Le Suivi des Oiseaux Communs (programme STO
 
 Fontaine, B., Moussy, C., Carricaburu, J.C., Dupuis, J., Schmaltz, L., Lorrillière, R., Loïs, G., Gaudard, C., Couzi, L., 2020. Résultats 2019 des programmes participatifs de suivi des oiseaux communs.
 [<i class="ai ai-osf"></i>](https://www.vigienature.fr/sites/vigienature/files/atoms/files/syntheseoiseauxcommuns2020_final.pdf)
+[<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/watch?v=-NByZHDScbk)
 
 **Gellé, A.**, Henshaw, S., Tatayah, V., 2021. Where have all the birds gone? - A multi-species approach to confirm distribution of threatened Mauritian birds in the Bambou Mountains (Mauritius) in the aftermath of Covid-19, through AudioMoth.
 [<i class="ai ai-obp"></i>](pdf/2021_MWF_audiomoth.pdf)
