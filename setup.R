@@ -1,7 +1,24 @@
+#git setup####
+#Set your Git user name and email from within R:
+#https://hugo-apero-docs.netlify.app/start/setup/
+
+library(usethis)
+use_git_config(user.name = "adriengelle", user.email = "adriengelle@gmail.com")
+
+usethis::create_github_token()
+#highly recommend selecting “repo”, “user”, and “workflow”. Recommended scopes will be pre-selected if you used create_github_token().
+#Click “Generate token”.
+
+#Copy the generated PAT to your clipboard. Or leave that browser window open and available for a little while, 
+#so you can come back to copy the PAT.
+
+gitcreds::gitcreds_set() #paste your PAT
+
+usethis::git_sitrep()
+
 #1. Set up####
 #https://hugo-apero-docs.netlify.app/start/setup/
 #packages
-usethis::git_sitrep()
 install.packages("blogdown")
 blogdown::install_hugo()
 install.packages("xfun")
