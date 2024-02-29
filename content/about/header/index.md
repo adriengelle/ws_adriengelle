@@ -23,4 +23,4 @@ Since starting my Master’s degree, I have been very interested in population v
 
 I love using programming languages such as R to help NGOs with data analysis and their reproducibility. In 2021 my job at the Mauritian Wildlife Foundation consisted of rebuilding their entire data life cycle (from collection on field, the validation & compilation).
 
-<img src="NTU.png" class="center-block" alt="ntu" style="width:30%;">
+<img src="NTU.png" class="center-block" alt="ntu" style="width:10%;">
