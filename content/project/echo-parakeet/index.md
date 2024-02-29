@@ -1,7 +1,7 @@
 ---
 date: "2024-02-29T00:00:00Z"
 external_link: https://www.mauritian-wildlife.org/
-image: echo.jpg
+image:
   caption: ''
   focal_point: Smart
 summary: A Mauritius endemic parakeet
