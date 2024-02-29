@@ -11,6 +11,9 @@ intro: |
 show_outro: true
 outro: |
 ---
+<!-- this is a subheadline -->
+
+<img src="NTU.png" class="center-block" alt="ntu" style="width:10%;">
 
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
