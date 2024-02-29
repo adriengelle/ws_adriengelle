@@ -24,8 +24,6 @@ any group (Collar et al., 1994). However, intensive conservation efforts helped 
 
 ## Facts
 
-Facts
-
 1. The sole survivor of six parrot species once found in the Mascarenes.
 2. Their diet consists of leaves, fruits, flowers and stems of primarily native plant species, but also includes exotic species.
 3. Are secondary cavity nesters, naturally nesting in cavities in emergent endemic trees.
