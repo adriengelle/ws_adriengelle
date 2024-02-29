@@ -21,7 +21,7 @@ The Mauritius or ‘echo’ parakeet (Alexandrinus eques) is perhaps the most ac
 any group (Collar et al., 1994). However, intensive conservation efforts helped the species to recover from a population size of fewer than 20 individuals in the 1980s (Jones 1987, Jones and Duffy 1993) to over 150 breeding pairs and 800 individuals in 2020 (MWF, 2020). As a result, the species was downlisted on the IUCN Red List twice this century, from Critically Endangered to Endangered in 2007
 (BirdLife International, 2007), and to Vulnerable in 2019 (BirdLife International, 2019).
 
-<img src="echo.jpg" class="center-block" alt="echo" style="width:30%;">
+<img src="echo.jpg" class="center" alt="echo" style="width:30%;">
 
 The conservation success of the echo parakeet was achieved through intensive conservation 
 management (including captive breeding, nest manipulation, installation of artificial nest boxes, 
