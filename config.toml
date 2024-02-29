@@ -122,10 +122,10 @@ enableEmoji = true
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=CweTZ90AAAAJ&hl=en"
-  [[params.social]]
-      icon      = "researchgate" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://www.researchgate.net/profile/Adrien-Gelle"
+  #[[params.social]]
+      #icon      = "researchgate" # icon name without the 'fa-'
+      #icon_pack = "ai"
+      #url       = "https://www.researchgate.net/profile/Adrien-Gelle"
 
 [taxonomies]
   category = "categories"
