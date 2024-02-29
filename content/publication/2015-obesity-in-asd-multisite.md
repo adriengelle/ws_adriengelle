@@ -1,4 +1,4 @@
-+++
+
 abstract = "Overweight and obesity are increasingly prevalent in the general pediatric population. Evidence suggests that children with autism spectrum disorders (ASDs) may be at elevated risk for unhealthy weight. We identify the prevalence of overweight and obesity in a multisite clinical sample of children with ASDs and explore concurrent associations with variables identified as risk factors for unhealthy weight in the general population. "
 
 authors = ["alison", "Katharine E. Zuckerman", "Eric Fombonne"]
@@ -30,7 +30,7 @@ url = "http://pediatrics.aappublications.org/content/pediatrics/suppl/2015/10/28
 image = ""
 caption = ""
 
-+++
+
 
 METHODS: Participants were 5053 children with confirmed diagnosis of ASD in the Autism Speaks Autism Treatment Network. Measured values for weight and height were used to calculate BMI percentiles; Centers for Disease Control and Prevention criteria for BMI for gender and age were used to define overweight and obesity (85th and 95th percentiles, respectively). 
 
