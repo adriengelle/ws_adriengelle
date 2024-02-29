@@ -14,6 +14,6 @@ show_social_links: true # specify social accounts in site config
 # - name: "The best TV show's final season"
 # url: https://en.wikipedia.org/wiki/Succession_(TV_series)
 ---
-<img src="NTU.png" class="center-block" alt="ntu" style="width:10%;">
+
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
