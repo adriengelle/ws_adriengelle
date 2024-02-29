@@ -19,7 +19,7 @@ In 2020 I decided to come back to my country and learn more about its endemic sp
 
 Since starting my Master’s degree, I have been very interested in population viability analysis, abundance indices, and population estimates. I was excited to learn about using capture-mark-recapture (CMR) models during my internships, where I worked on population viability and abundance trends concerning the common breeding bird survey (STOC) and on orchids. Now that I am working on data for the endemic bird species of my country, I am more and more interested in using and developing tools to monitor threatened species and to be able to produce more accurate population estimates. These tools are important to be able to detect early warning signs of population decline or atypical demographic rates when working on endangered/critically endangered species like in Mauritius.
 
-I love using programming languages such as R to help NGOs with data analysis and their reproducibility. In 2021 my job at the Mauritian Wildlife Foundation consisted of rebuilding their entire data life cycle (from collection on field, the validation & compilation). For example, I have automated the production of population estimate graphs for five different endemic bird species, which will help to improve accuracy of graphs and reduce time spent in making them manually.
+I love using programming languages such as R to help NGOs with data analysis and their reproducibility. In 2021 my job at the Mauritian Wildlife Foundation consisted of rebuilding their entire data life cycle (from collection on field, the validation & compilation).
 
 <img src="NTU_Primary_logo.jpg" class="center-block" alt="ntu" style="width:20%;">
 <img src="MWF_logo.jpg" class="center-block" alt="mwf" style="width:20%;">
