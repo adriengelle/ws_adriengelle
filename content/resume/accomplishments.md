@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Georgia Tech Department of Psychology"
-  organization_url = ""
-  title = "Outstanding Undergraduate Award"
-  url = ""
+  organization = "Campus France"
+  organization_url = "https://www.maurice.campusfrance.org/"
+  title = "Excellence Scholarship from the French government: Master's level"
+  url = "https://www.maurice.campusfrance.org/bourses-d-etudes"
   certificate_url = ""
-  date_start = "2002-05-01"
+  date_start = "2018-08-01"
   date_end = ""
   description = ""
 
