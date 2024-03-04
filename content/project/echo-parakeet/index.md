@@ -8,7 +8,7 @@ summary: A Mauritius endemic parakeet
 #tags:
 #- hugo
 #- software
-title: Echo parakeet (*Alexandrinus eques*)
+title: Echo parakeet
 links:
 
 - icon: book-open
