@@ -21,10 +21,7 @@ The Mauritius or ‘echo’ parakeet (*Alexandrinus eques*) is perhaps the most 
 
 > "Like most Mauritian naturalists I believe that the echo parakeet will become extinct in the very near future." (Jones, 1980)
 
-<center>
-  <img src="echo.jpg" class="center" alt="echo" style="width:30%">
-  <figcaption>*Female Echo Parakeet (© Jacques de Speville)*</figcaption>
-</center>
+
 
 
 The conservation success of the echo parakeet was achieved through intensive conservation 
@@ -32,6 +29,10 @@ management (including captive breeding, nest manipulation, installation of artif
 supplementary food, predator and competitor control) and monitoring (Jones and Duffy, 1993; Thorsen 
 and Jones, 1998). Population recovery is largely due to the provision of artificial nest boxes (Tatayah et al., 2007) and
 supplemental food (Tollington et al., 2018).
+<center>
+  <img src="echo.jpg" class="center" alt="echo" style="width:30%">
+  <figcaption>Echo parkaeets at feeding station(© Rebecca Louch)</figcaption>
+</center>
 
 ## Facts
 
