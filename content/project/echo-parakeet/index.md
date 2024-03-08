@@ -23,7 +23,7 @@ The Mauritius or ‘echo’ parakeet (*Alexandrinus eques*) is perhaps the most 
 
 <center>
   <img src="echo.jpg" class="center" alt="echo" style="width:30%">
-  <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+  <figcaption>*Female Echo Parakeet (© Jacques de Speville)*</figcaption>
 </center>
 
 
