@@ -32,6 +32,11 @@ and Jones, 1998). Population recovery is largely due to the provision of artific
 supplemental food (Tollington et al., 2018).
 <center>
   <img src="echo.jpg" class="center" alt="echo" style="width:50%">
+  <style>
+    .rounded-image {
+        border-radius: 20px; /* adjust the value as needed */
+    }
+</style>
   <figcaption>Echo parakeets at feeding station(© Rebecca Louch)</figcaption>
 </center>
 
