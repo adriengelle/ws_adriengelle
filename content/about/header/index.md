@@ -17,7 +17,7 @@ In 2017, I graduated from the University of Reunion Island with a BSc in Life Sc
 
 In 2020 I decided to return to my country and learn more about its endemic species. As the Scientific Data Officer at the [Mauritian Wildlife Foundation](https://www.mauritian-wildlife.org/), I was responsible for the data management of our threatened endemic bird species: Mauritius kestrel, Echo parakeet, Pink pigeon, Mauritius fody, and Olive white-eye. In this role, I also participated in fieldwork (predator control/monitoring), helped in the development of monitoring methods and protocols, and trained staff in data entry (Excel) and QGIS.
 
-<img src="MWF_field team.jpg" class="center-block rounded-image" alt="mwfteam" style="width:120%;">
+<img src="MWF_field team.jpg" class="center-block rounded-image" alt="mwfteam" style="width:150%;">
 
 <style>
     .rounded-image {
