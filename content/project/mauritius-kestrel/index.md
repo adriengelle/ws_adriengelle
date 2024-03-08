@@ -28,7 +28,7 @@ Despite initial challenges and setbacks, including difficulties in breeding the 
 In 1987, the first captive-bred Mauritius Kestrels were released back into the wild, marking a major milestone in the species' conservation. Over the following years, additional releases were conducted, and supplementary feeding programs were implemented to support the reintroduced birds as they adjusted to their natural habitat.
 
 <center>
-  <img src="kestrel_CJ.jpg" class="center" alt="kestrel" style="width:50%">
+  <img src="kestrel_CJ.jpg" class="center" alt="kestrel" style="width:100%">
   <figcaption>Carl Jones in 1982 with one of the first Mauritius kestrels that hatched in captivity</figcaption>
 </center>
 
@@ -37,7 +37,7 @@ The efforts to save the Mauritius Kestrel paid off, and the population began to 
 Today, the Mauritius Kestrel stands as a symbol of successful conservation efforts and serves as a reminder of the importance of protecting endangered species and their habitats. While challenges remain, particularly in addressing ongoing threats such as habitat destruction and invasive species, the recovery of the Mauritius Kestrel is a proof of what can be achieved through dedication, collaboration, and innovation in conservation efforts.
 
 <center>
-  <img src="kestrel_AG.jpg" class="center" alt="kestrel" style="width:50%">
+  <img src="kestrel_AG.jpg" class="center" alt="kestrel" style="width:30%">
   <figcaption>Holding a juvenile Mauritius kestrel from the 2020-21 breeding season</figcaption>
 </center>
 
