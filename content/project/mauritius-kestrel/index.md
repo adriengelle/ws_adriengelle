@@ -20,7 +20,7 @@ links:
 The Mauritius Kestrel (*Falco punctatus*) is a small bird of prey endemic to the island of Mauritius. Once abundant throughout the island, the population of Mauritius Kestrels began to decline rapidly in the 20th century due to a combination of factors, primarily habitat loss, introduced predators, and the widespread use of pesticides like [DDT](https://www.cdc.gov/biomonitoring/DDT_FactSheet.html#:~:text=Dichlorodiphenyltrichloroethane%20(DDT)%20is%20an%20insecticide,of%20mosquitoes%20that%20spread%20malaria.).
 
 <center>
-  <img src="kestrel_JS.jpg" class="center-block rounded-image" alt="kestrel" style="width:100%;">
+  <img src="kestrel_JS.jpg" class="center-block rounded-image" alt="kestrel" style="width:90%;">
   <style>
     .rounded-image {
         border-radius: 20px; /* adjust the value as needed */
@@ -38,7 +38,7 @@ Despite initial challenges and setbacks, including difficulties in breeding the 
 In 1987, the first captive-bred Mauritius Kestrels were released back into the wild, marking a major milestone in the species' conservation. Over the following years, additional releases were conducted, and supplementary feeding programs were implemented to support the reintroduced birds as they adjusted to their natural habitat.
 
 <center>
-  <img src="kestrel_CJ.jpg" class="center" alt="kestrel" style="width:100%">
+  <img src="kestrel_CJ.jpg" class="center" alt="kestrel" style="width:90%">
   <figcaption>Carl Jones in 1982 with one of the first Mauritius kestrels that hatched in captivity</figcaption>
 </center>
 
@@ -47,7 +47,7 @@ The efforts to save the Mauritius Kestrel paid off, and the population began to 
 Today, the Mauritius Kestrel stands as a symbol of successful conservation efforts and serves as a reminder of the importance of protecting endangered species and their habitats. While challenges remain, particularly in addressing ongoing threats such as habitat destruction and invasive species, the recovery of the Mauritius Kestrel is a proof of what can be achieved through dedication, collaboration, and innovation in conservation efforts.
 
 <center>
-  <img src="kestrel_AG.jpg" class="center" alt="kestrel" style="width:30%">
+  <img src="kestrel_AG.jpg" class="center" alt="kestrel" style="width:40%">
   <figcaption>Holding a juvenile Mauritius kestrel from the 2020-21 breeding season</figcaption>
 </center>
 
