@@ -1,5 +1,5 @@
 ---
-date: "2024-02-29T00:00:00Z"
+date: "2024-03-08T00:00:00Z"
 external_link: https://www.mauritian-wildlife.org/
 image:
   caption: ''
@@ -47,7 +47,7 @@ Today, the Mauritius Kestrel stands as a symbol of successful conservation effor
 ## Facts
 
 * Is a bird of prey endemic to the island of Mauritius in the Indian Ocean.
-* Small in Size: relatively small birds, measuring about 25 to 30 centimeters in length
+* Small in Size: relatively small birds, measuring about 25 to 30 centimeters in length.
 * Varied Diet: primarily consists of small birds, lizards, insects, and occasionally small mammals.
 * Habitat: forests, scrublands, and agricultural areas.
 * Conservation Status: no longer critically endangered, it remains classified as "Endangered" on the [IUCN Red List](https://www.iucnredlist.org/species/22696373/226885309) due to ongoing threats such as habitat degradation and competition with introduced species.
