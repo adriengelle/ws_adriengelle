@@ -42,7 +42,7 @@ supplemental food (Tollington et al., 2018).
         border-radius: 20px; /* adjust the value as needed */
     }
 </style>
-  <figcaption>Echo parakeets at feeding station(© Rebecca Louch)</figcaption>
+  <figcaption>Echo parakeets at feeding station (© Rebecca Louch)</figcaption>
 </center>
 
 ## Facts
