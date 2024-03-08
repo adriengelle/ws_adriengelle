@@ -25,6 +25,6 @@ Claessens, O., **Gellé, A.**, 2020. Le Suivi des Oiseaux Communs (programme STO
 [<i class="fa-solid fa-link"></i>](http://gepog.org/sites/default/files/Claessens%20%26%20Gell%C3%A9%202020.%20Bilan%20STOC-EPS%20Guyane%202012-2018.pdf)
 
 **Gellé, A.**, 2019. Evaluation de l’effet du réseau des Réserves naturelles sur les tendances d’effectifs des populations d’oiseaux nicheurs communs en France métropolitaine sur les 15 dernières années. Rapport de stage, Master 2 Biodiversité, écologie et évolution, Sciences Sorbonne Université (Paris VI).
-[<i class="fa-solid fa-file-pdf"></i>]([pdf/2021_MWF_audiomoth.pdf](https://www.reserves-naturelles.org/sites/default/files/news/gelle_adrien_m2bee_rapport_stage.pdf)https://www.reserves-naturelles.org/sites/default/files/news/gelle_adrien_m2bee_rapport_stage.pdf)
+[<i class="fa-solid fa-file-pdf"></i>](https://www.reserves-naturelles.org/sites/default/files/news/gelle_adrien_m2bee_rapport_stage.pdf)
 
 
