@@ -17,7 +17,7 @@ links:
   url: https://datazone.birdlife.org/species/factsheet/mauritius-kestrel-falco-punctatus
 ---
 
-The Mauritius Kestrel (*Falco punctatus*) is a small bird of prey endemic to the island of Mauritius. Once abundant throughout the island, the population of Mauritius Kestrels began to decline rapidly in the 20th century due to a combination of factors, primarily habitat loss, introduced predators, and the widespread use of pesticides like [DDT](https://www.cdc.gov/biomonitoring/DDT_FactSheet.html#:~:text=Dichlorodiphenyltrichloroethane%20(DDT)%20is%20an%20insecticide,of%20mosquitoes%20that%20spread%20malaria.)
+The Mauritius Kestrel (*Falco punctatus*) is a small bird of prey endemic to the island of Mauritius. Once abundant throughout the island, the population of Mauritius Kestrels began to decline rapidly in the 20th century due to a combination of factors, primarily habitat loss, introduced predators, and the widespread use of pesticides like [DDT](https://www.cdc.gov/biomonitoring/DDT_FactSheet.html#:~:text=Dichlorodiphenyltrichloroethane%20(DDT)%20is%20an%20insecticide,of%20mosquitoes%20that%20spread%20malaria.).
 
 By the 1970s, the Mauritius Kestrel had become one of the rarest birds in the world, with only a handful of individuals remaining in the wild. At its lowest point in 1974 it was estimated that there were only four individuals left.
 
@@ -46,7 +46,8 @@ Today, the Mauritius Kestrel stands as a symbol of successful conservation effor
 
 ## Facts
 
-* fact 1
-* fact 2
-* fact 3
-* fact 4
+* Is a bird of prey endemic to the island of Mauritius in the Indian Ocean.
+* Small in Size: relatively small birds, measuring about 25 to 30 centimeters in length
+* Varied Diet: primarily consists of small birds, lizards, insects, and occasionally small mammals.
+* Habitat: forests, scrublands, and agricultural areas.
+* Conservation Status: no longer critically endangered, it remains classified as "Endangered" on the [IUCN Red List](https://www.iucnredlist.org/species/22696373/226885309) due to ongoing threats such as habitat degradation and competition with introduced species.
