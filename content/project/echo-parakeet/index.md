@@ -15,7 +15,7 @@ links:
   icon_pack: fas
   name: Docs
   url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
-  <div style="text-align: right"> your-text-here </div>
+  <div style="text-align: justify"> your-text-here </div>
 ---
 
 The Mauritius or ‘echo’ parakeet (*Alexandrinus eques*) is perhaps the most acutely studied bird in Mauritius and maybe one of the most studied in the world. Due to human settlement and expansion since the 17th century, which led to habitat loss and fragmentation (Cheke and Hume, 2020; Safford, 1997; Vaughan and Wiehe, 1937), as well as the introduction of exotic plants and animals (Lorence and Sussman, 1986), two endemic species of parrot went extinct ([*Lophopsittacus mauritianus*](https://datazone.birdlife.org/species/factsheet/broad-billed-parrot-lophopsittacus-mauritianus) and [*Lophopsittacus bensoni*](https://datazone.birdlife.org/species/factsheet/mauritius-grey-parrot-lophopsittacus-bensoni) (Cheke, 1987)) and the Echo Parakeet population size and range began to decline (Jones, 1980). By the 1980s, this decline had progressed to the point where the species was classified as 'critically endangered' on the IUCN Red List. The extinction of the species seemed imminent by the early 1990s, when the echo parakeet was considered not only the rarest parrot in the world (Venning, 1993), but also one of the world's rarest and most endangered bird of 
