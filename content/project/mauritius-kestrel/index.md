@@ -20,7 +20,7 @@ links:
 The Mauritius Kestrel (*Falco punctatus*) is a small bird of prey endemic to the island of Mauritius. Once abundant throughout the island, the population of Mauritius Kestrels began to decline rapidly in the 20th century due to a combination of factors, primarily habitat loss, introduced predators, and the widespread use of pesticides like [DDT](https://www.cdc.gov/biomonitoring/DDT_FactSheet.html#:~:text=Dichlorodiphenyltrichloroethane%20(DDT)%20is%20an%20insecticide,of%20mosquitoes%20that%20spread%20malaria.).
 
 <center>
-  <img src="kestrel_JS.png" class="center-block rounded-image" alt="kestrel" style="width:100%;">
+  <img src="kestrel_JS.jpg" class="center-block rounded-image" alt="kestrel" style="width:100%;">
   <style>
     .rounded-image {
         border-radius: 20px; /* adjust the value as needed */
