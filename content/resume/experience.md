@@ -50,5 +50,7 @@ date_format = "January 2006"
   date_start = "2019-02-15"
   date_end = "2019-08-15"
   description = """ """
+  bullets = [
+"National Breeding Birds Survey (STOC)"]
 
 +++
