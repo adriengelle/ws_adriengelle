@@ -38,7 +38,9 @@ date_format = "January 2006"
   bullets = [
 "GIS",
 "Bird monitoring",
-"Predator control"]
+"Data management",
+"Bioacoustics",
+"Training"]
   
 [[experience]]
   title = "MSc internship"
