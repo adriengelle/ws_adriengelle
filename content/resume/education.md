@@ -17,7 +17,7 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[education]
+[[education]]
   title = "PGR candidate in animal sciences"
   company = "Nottingham Trent University"
   company_url = "https://www.ntu.ac.uk/study-and-courses/academic-schools/animal,-rural-and-environmental-sciences"
@@ -27,7 +27,7 @@ date_format = "January 2006"
   description = """
   """
 
-[[education]
+[[education]]
   title = "Scientific Data Officer"
   company = "Mauritian Wildlife Foundation"
   company_url = "https://www.mauritian-wildlife.org/"
