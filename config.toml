@@ -141,9 +141,9 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "CV"
-    title = "CV"
-    url = "/resume/"
-    weight = 4
+    title = "Download CV"
+    url = "/pdf/cv.pdf""
+    weight = 5
   [[menu.header]]
     name = "Projects"
     title = "Projects"
@@ -154,6 +154,11 @@ enableEmoji = true
     title = "Pubs"
     url = "/publication/"
     weight = 3
+  [[menu.header]]
+    name = "Curriculum Vitae"
+    title = "Curriculum Vitae"
+    url = "/resume/"
+    weight = 4
 
   # Configure footer
   [[menu.footer]]
