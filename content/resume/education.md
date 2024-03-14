@@ -17,20 +17,39 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[item]]
-  course = 'PhD in Developmental Psychology & Quantitative Methods'
-  institution = 'Vanderbilt University'
-  year = 2008
-  
-[[item]]
-  course = 'MSc in Developmental Psychology'
-  institution = 'Vanderbilt University'
-  year = 2005
+[[experience]]
+  title = "PGR candidate in animal sciences"
+  company = "Nottingham Trent University"
+  company_url = "https://www.ntu.ac.uk/study-and-courses/academic-schools/animal,-rural-and-environmental-sciences"
+  location = "Brackenhurst Campus, Southwell, UK"
+  date_start = "2023-10-01"
+  date_end = ""
+  description = """
+  """
 
-[[education]]
-  course = 'BSc in Applied Psychology'
-  institution = 'Georgia Institute of Technology'
-  year = 2002
+[[experience]]
+  title = "Scientific Data Officer"
+  company = "Mauritian Wildlife Foundation"
+  company_url = "https://www.mauritian-wildlife.org/"
+  location = "Vacoas, Mauritius"
+  date_start = "2020-11-26"
+  date_end = "2023-05-31"
+  description = """ """
+  bullets = [
+"GIS",
+"Bird monitoring",
+"Data management",
+"Bioacoustics",
+"Training"]
+  
+[[experience]]
+  title = "MSc internship"
+  company = "Reserves Naturelles de France"
+  company_url = "https://www.reserves-naturelles.org/"
+  location = "Dijon, France"
+  date_start = "2019-02-15"
+  date_end = "2019-08-15"
+  description = """ """
   
 
 +++
