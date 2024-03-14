@@ -55,7 +55,10 @@ date_format = "January 2006"
   description = """ """
   bullets = [
 "Biology",
-"Geosciences"]
+"Geology",
+"Physics",
+"Chemistry",
+"Mathematics"]
 
   
 
