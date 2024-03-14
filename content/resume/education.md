@@ -18,38 +18,45 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[education]]
-  title = "PGR candidate in animal sciences"
-  company = "Nottingham Trent University"
-  company_url = "https://www.ntu.ac.uk/study-and-courses/academic-schools/animal,-rural-and-environmental-sciences"
-  location = "Brackenhurst Campus, Southwell, UK"
-  date_start = "2023-10-01"
-  date_end = ""
-  description = """
-  """
-
-[[education]]
-  title = "Scientific Data Officer"
-  company = "Mauritian Wildlife Foundation"
-  company_url = "https://www.mauritian-wildlife.org/"
-  location = "Vacoas, Mauritius"
-  date_start = "2020-11-26"
-  date_end = "2023-05-31"
+  title = "MSc in Biodiversity, Ecology, Evolution"
+  company = "Sorbonne University"
+  company_url = "https://sciences.sorbonne-universite.fr/en/sorbonne-universite-campus-pierre-et-marie-curie"
+  location = "Paris, France"
+  date_start = "2017-08-20"
+  date_end = "2019-09-15"
   description = """ """
   bullets = [
+"Conservation sciences (ex-situ/ in-situ)",
+"Statistics",
+"Sampling methodology",
 "GIS",
-"Bird monitoring",
-"Data management",
-"Bioacoustics",
-"Training"]
+"Population models (survival/viability)"]
+
+[[education]]
+  title = "BSc in Life Sciences"
+  company = "University of Reunion"
+  company_url = "https://www.univ-reunion.fr/"
+  location = "Saint-Denis, Reunion, France"
+  date_start = "2014-08-20"
+  date_end = "2017-05-31"
+  description = """ """
+  bullets = [
+"Biology",
+"Biochemistry",
+"Geology"]
   
 [[education]]
-  title = "MSc internship"
-  company = "Reserves Naturelles de France"
-  company_url = "https://www.reserves-naturelles.org/"
-  location = "Dijon, France"
-  date_start = "2019-02-15"
-  date_end = "2019-08-15"
+  title = "French High School diploma, Science major"
+  company = "Lycee des Mascareignes"
+  company_url = "https://www.lyceedesmascareignes.org/"
+  location = "Moka, Mauritius"
+  date_start = "2012-08-01"
+  date_end = "2013-05-31"
   description = """ """
+  bullets = [
+"Biology",
+"Geosciences"]
+
   
 
 +++
