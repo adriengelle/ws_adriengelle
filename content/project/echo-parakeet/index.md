@@ -52,4 +52,4 @@ supplemental food (Tollington et al., 2018).
 * Cavity nesters (naturally nesting in cavities in endemic trees).
 * The Echo Parakeet project is the world’s most successful parrot recovery programme.
 
-More information about the project on [Mauritian Wildlife Foundation.org](https://www.mauritian-wildlife.org/ "Mauritian Wildlife FOundation website").
+More information about the project on [Mauritian Wildlife Foundation](https://www.mauritian-wildlife.org/ "Mauritian Wildlife Foundation website").
