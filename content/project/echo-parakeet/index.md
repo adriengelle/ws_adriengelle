@@ -16,6 +16,7 @@ links:
   name: Docs
   url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
 ---
+<iframe src='https://xeno-canto.org/155383/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
 <img src="DSCN2342.JPG" class="center-block rounded-image" alt="echo" style="width:100%;">
   <style>
     .rounded-image {
