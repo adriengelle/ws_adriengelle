@@ -16,7 +16,7 @@ links:
   name: Docs
   url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
 ---
-<img src="echo_VP1.jpg" class="center-block rounded-image" alt="echo" style="width:100%;">
+<img src="DSCN2342.JPG" class="center-block rounded-image" alt="echo" style="width:100%;">
   <style>
     .rounded-image {
         border-radius: 20px; /* adjust the value as needed */
