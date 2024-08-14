@@ -21,7 +21,6 @@ links:
   url: https://xeno-canto.org/155383/embed?simple=1%27%20scrolling=%27no%27%20frameborder=%270%27%20width=%27340%27%20height=%27115
   
 ---
-<iframe src='https://xeno-canto.org/155383/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
 <img src="DSCN2342.JPG" class="center-block rounded-image" alt="echo" style="width:100%;">
   <style>
     .rounded-image {
