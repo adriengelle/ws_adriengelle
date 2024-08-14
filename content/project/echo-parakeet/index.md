@@ -21,7 +21,7 @@ links:
   url: https://xeno-canto.org/155383/embed?simple=1%27%20scrolling=%27no%27%20frameborder=%270%27%20width=%27340%27%20height=%27115
   
 ---
-<img src="DSCN2342.JPG" class="center-block rounded-image" alt="echo" style="width:100%;">
+<img src="DSCN2342.JPG" class="center-block rounded-image" alt="echo" style="width:100%">
   <style>
     .rounded-image {
         border-radius: 20px; /* adjust the value as needed */
