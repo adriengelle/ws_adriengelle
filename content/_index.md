@@ -3,7 +3,7 @@ title: "Adrien Gelle"
 subtitle: "PhD in conservation sciences at Nottingham Trent University, School of Animal, Rural and Environmental Sciences"
 description: "Passionate in conservation sciences. Currently doing a PhD to help improve monitoring techniques of endangered/vulnerable species."
 images:
-  - ![Your caption here](img/beforemankind.png)
+  - img/beforemankind.png
 image_caption: "Your caption here"
 image_left: true
 text_align_left: false
