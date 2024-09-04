@@ -4,7 +4,7 @@ subtitle: "PhD in conservation sciences at Nottingham Trent University, School o
 description: "Passionate in conservation sciences. Currently doing a PhD to help improve monitoring techniques of endangered/vulnerable species."
 images:
   - img/beforemankind.png
-image_caption: "This is a caption describing the image before mankind."
+image_caption: "Illustration of Mare aux Songes, 4,000 years ago. All of the animals in this image, apart from the Echo Parakeet (Psittacula eques), Pink pigeon (Nesoenas mayeri) Mauritius kestrel (Falco punctatus) and Mauritius fruit bat (Pteropus niger) are extinct. [© Julian Hume"](https://www.naturepl.com/search?s=julian+hume)"
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
