@@ -4,6 +4,7 @@ subtitle: "PhD in conservation sciences at Nottingham Trent University, School o
 description: "Passionate in conservation sciences. Currently doing a PhD to help improve monitoring techniques of endangered/vulnerable species."
 images:
   - img/beforemankind.png
+image_caption: "Your caption here"
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
