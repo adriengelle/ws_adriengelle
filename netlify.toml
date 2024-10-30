@@ -10,11 +10,8 @@
 
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
-[[
-headers
-]]
+
+[[headers]]
   for = "/project/CMR-data-transformation/*"
-  [
-headers.values
-]
+  [headers.values]
     Basic-Auth = "someuser:somepassword"
