@@ -9,7 +9,7 @@ summary: A Shiny app for transforming your sightings data to CMR format
 #- hugo
 #- software
 title: CMR - Data transformation App
-links: https://adrien-gelle.shinyapps.io/data_transform/
+links:
 
 - icon: link
   icon_pack: fas
