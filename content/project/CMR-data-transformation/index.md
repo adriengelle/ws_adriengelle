@@ -16,8 +16,8 @@ links:
   name: App
   url: https://adrien-gelle.shinyapps.io/data_transform/
 
-- icon: fa-github
-  icon_pack: fas
+- icon: github
+  icon_pack: fab
   name: Git
   url: https://github.com/adriengelle/Formatting-data-for-CMR
 ---
