@@ -11,6 +11,9 @@
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+
 [[headers]]
   for = "/project/cmr-data-transformation/*"
   [headers.values]
