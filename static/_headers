@@ -1,1 +1,3 @@
-
+/project/cmr-data-transformation   Basic-Auth: someuser:somepassword
+/project/cmr-data-transformation/  Basic-Auth: someuser:somepassword
+/project/cmr-data-transformation/* Basic-Auth: someuser:somepassword
