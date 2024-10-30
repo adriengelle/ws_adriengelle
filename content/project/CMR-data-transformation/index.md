@@ -1,5 +1,5 @@
 ---
-date: "2024-02-29T00:00:00Z"
+date: "2024-10-29T00:00:00Z"
 external_link: https://adrien-gelle.shinyapps.io/data_transform/
 image:
   caption: ''
