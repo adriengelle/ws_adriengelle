@@ -8,17 +8,13 @@ summary: A Mauritius endemic parakeet
 #tags:
 #- hugo
 #- software
-title: Echo parakeet
+title: CMR - Data transformation App
 links:
 
-- icon: book-open
+- icon: fa-link
   icon_pack: fas
-  name: Docs
-  url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
-- icon: file-audio
-  icon_pack: fas
-  name: Call
-  url: https://xeno-canto.org/155383/embed?simple=1%27%20scrolling=%27no%27%20frameborder=%270%27%20width=%27340%27%20height=%27115
+  name: App
+  url: https://adrien-gelle.shinyapps.io/data_transform/
   
 ---
 <div style="text-align: center;">
