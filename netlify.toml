@@ -13,7 +13,7 @@
 [[
 headers
 ]]
-  for = "content/project/CMR-data-transformation"
+  for = "/project/CMR-data-transformation/*"
   [
 headers.values
 ]
