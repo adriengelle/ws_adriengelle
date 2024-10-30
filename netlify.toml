@@ -12,6 +12,6 @@
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
 [[headers]]
-  for = "content/project/CMR-data-transformation/*"
+  for = "project/CMR-data-transformation/*"
   [headers.values]
     Basic-Auth = "someuser:somepassword"
