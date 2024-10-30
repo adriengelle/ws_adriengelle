@@ -11,7 +11,7 @@ summary: A Mauritius endemic parakeet
 title: CMR - Data transformation App
 links:
 
-- icon: fa-link
+- icon: link
   icon_pack: fas
   name: App
   url: https://adrien-gelle.shinyapps.io/data_transform/
