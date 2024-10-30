@@ -15,7 +15,11 @@ links:
   icon_pack: fas
   name: App
   url: https://adrien-gelle.shinyapps.io/data_transform/
-  
+
+- icon: github
+  icon_pack: fas
+  name: App
+  url: https://github.com/adriengelle/Formatting-data-for-CMR
 ---
 <iframe src="https://adrien-gelle.shinyapps.io/data_transform/" 
 style="width:100%; height:800px; border:none;">
