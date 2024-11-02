@@ -23,7 +23,7 @@ links:
 ---
 <div style="text-align: center;">
     <img src="app_example.PNG" class="rounded-image" alt="echo" style="width:100%">
-    <figcaption style="margin-top: 10px;">CMR data transformation app example (user interface)</figcaption>
+    <figcaption style="margin-top: 20px;">CMR data transformation app example (user interface)</figcaption>
 </div>
 
 <style>
