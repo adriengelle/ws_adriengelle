@@ -22,12 +22,12 @@ links:
   url: https://github.com/adriengelle/Formatting-data-for-CMR
 ---
 <div style="text-align: center;">
-    <img src="app_example.PNG" class="rounded-image" alt="echo" style="width:100%">
-    <figcaption style="margin-top: 20px;">CMR data transformation app example (user interface)</figcaption>
+    <img src="app_example.PNG" class="rounded-image" alt="app" style="width:100%">
+    <figcaption style="margin-top: 5px;">CMR data transformation app example (user interface)</figcaption>
 </div>
 
 <style>
     .rounded-image {
-        border-radius: 20px; /* adjust the value as needed */
+        border-radius: 5px; /* adjust the value as needed */
     }
 </style>
