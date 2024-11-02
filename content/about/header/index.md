@@ -11,7 +11,7 @@ headline: |
 <!-- this is a subheadline -->
 Thanks for visiting my website :sunglasses:
 
-I am from Mauritius Island, the [Lost Land of the Dodo](https://books.google.co.uk/books?hl=en&lr=&id=8xXSBAAAQBAJ&oi=fnd&pg=PA1&dq=lost+land+of+the+dodo&ots=UOSF_jJk8H&sig=QmdaYk6ZzFdb3wwQBqLKDJyWOSg&redir_esc=y#v=onepage&q=lost%20land%20of%20the%20dodo&f=false) :dodo:
+I am from Mauritius Island, the [Lost Land of the Dodo](https://books.google.co.uk/books?hl=en&lr=&id=8xXSBAAAQBAJ&oi=fnd&pg=PA1&dq=lost+land+of+the+dodo&ots=UOSF_jJk8H&sig=QmdaYk6ZzFdb3wwQBqLKDJyWOSg&redir_esc=y#v=onepage&q=lost%20land%20of%20the%20dodo&f=false)
 
 In 2017, I graduated from the University of Reunion Island with a BSc in Life Sciences. Following this, I was awarded an Excellence Scholarship from the French Government to complete an MSc in Ecology, Biodiversity, and Evolution at Pierre and Marie Curie University (Sciences Sorbonne University) in Paris. I specialised in Conservation Sciences and graduated in 2019. During my studies and research internships at the National Museum of Natural History in Paris, I had the opportunity to acquire various knowledge in population dynamics/viability, biostatistics, GIS and R programming. 
 
