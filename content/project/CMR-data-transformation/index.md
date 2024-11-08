@@ -1,6 +1,6 @@
 ---
 date: "2024-10-29T00:00:00Z"
-external_link: https://adrien-gelle.shinyapps.io/data_transform/
+external_link: https://adrien-gelle.shinyapps.io/cmr-pivot/
 image:
   caption: ''
   focal_point: Smart
@@ -14,7 +14,7 @@ links:
 - icon: link
   icon_pack: fas
   name: App
-  url: https://adrien-gelle.shinyapps.io/data_transform/
+  url: https://adrien-gelle.shinyapps.io/cmr-pivot/
 
 - icon: github
   icon_pack: fab
