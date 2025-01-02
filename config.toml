@@ -94,10 +94,10 @@ enableEmoji = true
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/adrien-gell%C3%A9-a26733b6/"
-  #[[params.social]]
-      #icon      = "twitter" # icon name without the 'fa-'
-      #icon_pack = "fab"
-      #url       = "https://twitter.com/apreshill"
+  [[params.social]]
+      icon      = "mug-hot" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://ko-fi.com/adriengelle"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
