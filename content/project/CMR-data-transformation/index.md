@@ -31,3 +31,5 @@ links:
         border-radius: 5px; /* adjust the value as needed */
     }
 </style>
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'M4M018588Z');kofiwidget2.draw();</script> 
