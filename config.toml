@@ -124,6 +124,7 @@ enableEmoji = true
       url       = "https://scholar.google.com/citations?user=CweTZ90AAAAJ&hl=en"
   [[params.social]]
       icon      = "crow" # icon name without the 'fa-'
+      title = "eBird"
       icon_pack = "fas"
       url       = "https://ebird.org/profile/NzIxODc0Ng/world"
 
