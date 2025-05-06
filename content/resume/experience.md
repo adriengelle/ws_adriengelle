@@ -25,7 +25,7 @@ date_format = "January 2006"
   date_start = "2025-04-26"
   date_end = "2025-05-04"
   description = "Volunteering on Skomer Island during the 2025 breeding season"
-  """
+
 [[experience]]
   title = "PGR candidate in animal sciences"
   company = "Nottingham Trent University"
