@@ -4,7 +4,7 @@ external_link: https://www.mauritian-wildlife.org/
 image:
   caption: ''
   focal_point: Smart
-summary: A Mauritius endemic parakeet
+summary: A Mauritius endemic parrot
 #tags:
 #- hugo
 #- software
