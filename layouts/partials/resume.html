@@ -14,7 +14,7 @@
           <div class="f6 pv0 mv0 fl w-60-ns w-100 tl">
             {{ if .company }}
             <h6 class="f5 pv0 mv0 dark-gray">
-            {{ if .company_url }}<a href="{{ . }}">{{ end }}{{ .company }}{{ if .company_url }}</a>{{ end }}
+            {{ if .company_url }}<a href="{{ .company_url | safeURL }}">{{ end }}{{ .company }}{{ if .company_url }}</a>{{ end }}
             </h6>
             {{ end }}
           </div>
