@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Adrien Gelle"
 role: "PhD student"
-avatar_shape: circle # circle, square, rounded
+avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 # audio_link_label: "How to say my name"
 # link_list_label: "Currently following..." # bookmarks, elsewhere, etc.
