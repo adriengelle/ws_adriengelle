@@ -18,6 +18,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Weekly Volunteer"
+  company = "Wildlife Trust"
+  company_url = "https://www.welshwildlife.org/"
+  location = "Skomer Island, Wales, UK"
+  date_start = "2025-04-26"
+  date_end = "2025-05-04"
+  description = "Volunteering on Skomer Island during the 2025 breeding season"
+  """
+[[experience]]
   title = "PGR candidate in animal sciences"
   company = "Nottingham Trent University"
   company_url = "https://www.ntu.ac.uk/study-and-courses/academic-schools/animal,-rural-and-environmental-sciences"
