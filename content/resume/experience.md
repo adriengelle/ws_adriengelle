@@ -20,7 +20,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Weekly Volunteer"
   company = "The Wildlife Trust of South and West Wales"
-  company_url = "https://www.welshwildlife.org/"
+  company_url = https://www.welshwildlife.org/
   location = "Skomer Island, Wales, UK"
   date_start = "2025-04-26"
   date_end = "2025-05-04"
