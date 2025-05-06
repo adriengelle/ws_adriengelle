@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Weekly Volunteer"
-  company = "Wildlife Trust"
+  company = "The Wildlife Trust of South and West Wales"
   company_url = "https://www.welshwildlife.org/"
   location = "Skomer Island, Wales, UK"
   date_start = "2025-04-26"
