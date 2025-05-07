@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: Blog
   description: |
-    This blog is a compilation of my adventures involving areas of interest for conservation projects.
+    This blog is a compilation of my adventures involving areas of interest in ecology and conservation projects.
   author: "Adrien Gelle"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
