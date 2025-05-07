@@ -27,16 +27,16 @@ date_format = "January 2006"
   description = "Volunteering on Skomer Island during the 2025 breeding season"
   
 [[experience]]
-title = "Conference"
+title = "Conference poster"
 organization = "Student Conference on Conservation Science"
 organization_url = "https://www.sccs-cam.org/"
 location = "Cambridge, UK"
 date_start = "2025-04-01"
 date_end = "2025-04-03"
-description = """* Poster presentation
-Participated in workshops focused on:
-* Publications in Ecology
-* Communicating statistics for conservation science"""
+description = """Participated in workshops focused on:"""
+bullets = [
+"Publications in Ecology",
+"Communicating statistics for conservation science"]
 
 [[experience]]
   title = "PGR candidate in animal sciences"
