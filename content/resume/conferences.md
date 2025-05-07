@@ -1,5 +1,5 @@
 +++
-# Conferences widget.
+# Experience widget.
 widget = "experience"  # Do not modify this line!
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
@@ -25,7 +25,7 @@ organization_url = "https://www.portail.reserves-naturelles.org/page/1377561-con
 location = "Le Monêtier-les-Bains, France"
 date_start = "2019-06-05"
 date_end = "2019-06-08"
-description = """Presented research on breeding bird population trends in France"""
+description = "Presented research on breeding bird population trends in France"
 
 [[experience]]
 title = "Poster presentation"
@@ -37,4 +37,5 @@ date_end = "2025-04-03"
 description = """Participated in workshops focused on:
 * Publications in Ecology
 * Communicating statistics for conservation science"""
+
 +++
