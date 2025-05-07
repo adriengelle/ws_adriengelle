@@ -19,7 +19,8 @@ date_format = "January 2006"
 
 
 [[conferences]]
-title = "Presenter" organization = "Congrès des Réserves Naturelles de France" 
+title = "Presenter"
+organization = "Congrès des Réserves Naturelles de France" 
 organization_url = "https://www.portail.reserves-naturelles.org/page/1377561-congres"
 location = "Le Monêtier-les-Bains, France"
 date_start = "2019-06-05"
