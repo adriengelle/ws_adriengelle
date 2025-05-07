@@ -28,8 +28,8 @@ date_format = "January 2006"
   
 [[experience]]
 title = "Conference poster"
-organization = "Student Conference on Conservation Science"
-organization_url = "https://www.sccs-cam.org/"
+company = "Student Conference on Conservation Science"
+company_url = "https://www.sccs-cam.org/"
 location = "Cambridge, UK"
 date_start = "2025-04-01"
 date_end = "2025-04-03"
@@ -65,8 +65,8 @@ bullets = [
 
 [[experience]]
 title = "Conference presenter"
-organization = "Congrès des Réserves Naturelles de France" 
-organization_url = "https://www.portail.reserves-naturelles.org/page/1377561-congres"
+company = "Congrès des Réserves Naturelles de France" 
+company_url = "https://www.portail.reserves-naturelles.org/page/1377561-congres"
 location = "Le Monêtier-les-Bains, France"
 date_start = "2019-06-05"
 date_end = "2019-06-08"
