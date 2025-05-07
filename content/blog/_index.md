@@ -1,9 +1,8 @@
 ---
 title: Blog
 description: |
-  A blog about data science. I mainly blog about #rstats and
-  teaching. I have more websites than blog posts.
-author: "Alison Hill"
+  A blog about my experience in ecology & conservation projects.
+author: "Adrien Gelle"
 show_post_thumbnail: true
 thumbnail_left: false
 show_author_byline: true
@@ -15,15 +14,15 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: Blog
   description: |
-    This blog is my [digital garden](https://nesslabs.com/digital-garden-set-up), somewhere between a notepad and a blog. 
-  author: "Alison Hill"
+    This blog is a compilation of my adventures involving areas of interest for conservation projects.
+  author: "Adrien Gelle"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Alison Hill"
+  author: "Adrien Gelle"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
