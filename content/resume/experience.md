@@ -25,6 +25,18 @@ date_format = "January 2006"
   date_start = "2025-04-26"
   date_end = "2025-05-04"
   description = "Volunteering on Skomer Island during the 2025 breeding season"
+  
+[[experience]]
+title = "Conference"
+organization = "Student Conference on Conservation Science"
+organization_url = "https://www.sccs-cam.org/"
+location = "Cambridge, UK"
+date_start = "2025-04-01"
+date_end = "2025-04-03"
+description = """* Poster presentation
+Participated in workshops focused on:
+* Publications in Ecology
+* Communicating statistics for conservation science"""
 
 [[experience]]
   title = "PGR candidate in animal sciences"
@@ -50,6 +62,15 @@ date_format = "January 2006"
 "Data management",
 "Bioacoustics",
 "Training"]
+
+[[experience]]
+title = "Conference presenter"
+organization = "Congrès des Réserves Naturelles de France" 
+organization_url = "https://www.portail.reserves-naturelles.org/page/1377561-congres"
+location = "Le Monêtier-les-Bains, France"
+date_start = "2019-06-05"
+date_end = "2019-06-08"
+description = "Presented research on breeding bird population trends in France"
   
 [[experience]]
   title = "MSc internship"

@@ -19,7 +19,7 @@ date_format = "January 2006"
 
 
 [[experience]]
-title = "Presenter"
+title = "Conference presenter"
 organization = "Congrès des Réserves Naturelles de France" 
 organization_url = "https://www.portail.reserves-naturelles.org/page/1377561-congres"
 location = "Le Monêtier-les-Bains, France"
@@ -28,13 +28,14 @@ date_end = "2019-06-08"
 description = "Presented research on breeding bird population trends in France"
 
 [[experience]]
-title = "Poster presentation"
+title = "Conference"
 organization = "Student Conference on Conservation Science"
 organization_url = "https://www.sccs-cam.org/"
 location = "Cambridge, UK"
 date_start = "2025-04-01"
 date_end = "2025-04-03"
-description = """Participated in workshops focused on:
+description = """* Poster presentation
+Participated in workshops focused on:
 * Publications in Ecology
 * Communicating statistics for conservation science"""
 
