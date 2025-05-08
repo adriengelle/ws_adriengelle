@@ -2,7 +2,7 @@
 title: "Skomer Island: A Volunteer's Journey Into Seabirds Hidden Kingdom"
 date: '2025-05-08'
 output: html_document
-excerpt: "My week volunteering on Skomer Island, Wales - a remarkable wildlife sanctuary home to 150,000 pairs of Manx Shearwaters and 43,000 Atlantic Puffins, including encounters with birds of prey."
+excerpt: "My week volunteering on Skomer Island, Wales - a remarkable wildlife sanctuary home to 360,000 pairs of Manx Shearwaters and 43,000 Atlantic Puffins, including encounters with birds of prey."
 image:
   caption: "Satellite view of Skomer Island, Wales"
   alt: "Map of Skomer Island"
@@ -40,7 +40,7 @@ Our operational team consisted of six weekly volunteers, two long-term volunteer
 *The Wick viewpoint*
 
 ## The Avian Fauna
-Skomer's ecological significance is particularly evident in its burrowing seabird populations. The island substrate is extensively tunneled, resembling a biological honeycomb structure. Two primary burrowing species inhabit these tunnels: approximately 150,000 pairs of [Manx Shearwaters](https://ebird.org/species/manshe) (*Puffinus puffinus*) and 43,000 [Atlantic Puffins](https://ebird.org/species/atlpuf) (*Fratercula arctica*).
+Skomer's ecological significance is particularly evident in its burrowing seabird populations. The island substrate is extensively tunneled, resembling a biological honeycomb structure. Two primary burrowing species inhabit these tunnels: approximately 360,000 pairs of [Manx Shearwaters](https://ebird.org/species/manshe) (*Puffinus puffinus*) and 43,000 [Atlantic Puffins](https://ebird.org/species/atlpuf) (*Fratercula arctica*).
 
 The Manx Shearwaters return to their burrows at night, vocally active with their distinctive [calls](https://macaulaylibrary.org/asset/235543) . These vocalisations are characterised by a high-pitched, repetitive sound pattern that historically contributed to Skomer's ancient designation as the "island of lost souls." Overnight stays on Skomer provide valuable opportunities to observe these nocturnal avian activities, which are not accessible to day visitors.
 
