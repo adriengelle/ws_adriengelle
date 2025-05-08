@@ -57,6 +57,7 @@ We were very lucky to have great weather during the week, with clear skies and t
 These days without visitors were an opportunity for infrastructure maintenance (painting, repairs & cleaning) and targeted monitoring. I participated in [Short-eared Owl](https://ebird.org/species/sheowl) (*Asio flammeus*) monitoring. During this survey, I got the amazing luck of seeing an individual flying just above my head, [calling](https://macaulaylibrary.org/asset/139759261) and showing territorial behaviors ("wing-clapping"). The nest was not very far...
 
 ![Short-eared Owl](short-eared_owl_NB.jpg)
+
 *Short-eared Owl (Asio flammeus) photographed by ©Nigel Blake in April 2008*
 
 ## Acknowledgment
