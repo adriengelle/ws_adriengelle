@@ -4,8 +4,6 @@ date: '2025-05-08'
 output: html_document
 ---
 
-# Skomer Island: A Volunteer's Journey into seabirds hidden kingdom
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [The Arrival](#the-arrival)
