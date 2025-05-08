@@ -1,5 +1,5 @@
 ---
-title: "Skomer Island: A Volunteer's Journey into seabirds hidden kingdom"
+title: "Skomer Island: A Volunteer's Journey Into Seabirds Hidden Kingdom"
 date: '2025-05-08'
 output: html_document
 ---
@@ -31,6 +31,8 @@ We arrived on Skomer on April 26th, 2025, as weekly volunteers. Our boat departe
 
 ## The Team
 Our operational team consisted of six weekly volunteers, two long-term volunteers, and four staff members. Daily tasks were systematically assigned, including walks and talks with visitors around the island, observation point staffing at the Wick with spotting scopes to facilitate species identification, and logistical support during boat arrivals (landing, binoculars renting).
+![the Wick](the_wick.jpg)
+*The Wick viewpoint*
 
 ## The Avian Fauna
 Skomer's ecological significance is particularly evident in its burrowing seabird populations. The island substrate is extensively tunneled, resembling a biological honeycomb structure. Two primary burrowing species inhabit these tunnels: approximately 150,000 pairs of [Manx Shearwaters](https://ebird.org/species/manshe) (*Puffinus puffinus*) and 43,000 [Atlantic Puffins](https://ebird.org/species/atlpuf) (*Fratercula arctica*).
