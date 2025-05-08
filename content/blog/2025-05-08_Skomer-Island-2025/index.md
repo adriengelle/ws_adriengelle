@@ -3,7 +3,7 @@ title: "Skomer Island: A Volunteer's Journey Into Seabirds Hidden Kingdom"
 date: '2025-05-08'
 output: html_document
 excerpt: "My week volunteering on Skomer Island, Wales - a remarkable wildlife sanctuary home to 150,000 pairs of Manx Shearwaters and 43,000 Atlantic Puffins, including encounters with birds of prey."
-featured_image: "Skomer_map.jpg"
+featured_image: "Skomer_map.png"
 tags: ["birdwatching", "volunteering", "conservation", "wales"]
 ---
 
