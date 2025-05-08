@@ -16,13 +16,12 @@ output: html_document
 ## Introduction
 Skomer Island is located off the Pembrokeshire coast of Wales, formed primarily of volcanic rock. Archaeological evidence indicates human settlements dating back to the Iron Age, though today it functions as a protected nature reserve managed by the [Wildlife Trust of South Wales](https://www.welshwildlife.org/). The island's geology—predominantly volcanic rock covered by thin, fertile soil—provides an optimal habitat for numerous species, particularly burrowing seabirds.
 
-![Map of Skomer Island](Skomer_map.jpg)
+![Map of Skomer Island](Skomer_map.png)
 
 ## The Arrival
 We arrived on Skomer on April 26th, 2025, as weekly volunteers. Our boat departed from Martin's Haven on the mainland and landed at North Haven on Skomer Island. Weather conditions upon arrival included mist, which is relatively common in this maritime environment during spring.
 
 ![Misty arrival at Skomer](mist.jpg)
-<img src="mist.png" width="662" />
 ![The boat to Skomer](boat.jpg)
 
 ## The Team
@@ -37,7 +36,10 @@ Diurnal raptor species observable on the island include Common Buzzard (*Buteo b
 
 ![Peregrine Falcon](peregrine.jpg)
 ![Manx Shearwater](manx.jpg)
-![Atlantic Puffin](Puffin)NB.jpg)
+![Atlantic Puffin](Puffin_NB.jpg)
+*Atlantic Puffin (Fratercula arctica), photographed at the Wick by ©Nigel Blake.*
+![Atlantic Puffin](puffin.jpg)
+
 
 ## The Experience
 We were very lucky to have great weather during the week, with clear skies and temperatures reaching maximums of 25°C. The last days featured strong northerly winds, creating conditions unsuitable for boat landings. This resulted in a 24-hour extension of our stay, with a 48-hour period without any visitors (the island was ours!).
