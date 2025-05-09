@@ -21,7 +21,7 @@ tags: ["birdwatching", "volunteering", "conservation", "wales"]
 ## Introduction
 Skomer Island is located off the Pembrokeshire coast of Wales, formed primarily of volcanic rock. Archaeological evidence indicates human settlements dating back to the Iron Age, though today it functions as a protected nature reserve managed by the [Wildlife Trust of South Wales](https://www.welshwildlife.org/). The island's geology—predominantly volcanic rock covered by thin, fertile soil—provides an optimal habitat for numerous species, particularly burrowing seabirds.
 
-![Map of Skomer Island](Skomer_map.png)
+![Map of Skomer Island](featured.png)
 
 ## The Arrival
 We arrived on Skomer on April 26th, 2025, as weekly volunteers. Our boat departed from Martin's Haven on the mainland and landed at North Haven on Skomer Island. Weather conditions upon arrival included mist, which is relatively common in this maritime environment during spring.
