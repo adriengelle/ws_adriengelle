@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Campus France"
-  organization_url = "https://www.maurice.campusfrance.org/"
+  company = "Campus France"
+  company_url = "https://www.maurice.campusfrance.org/bourses-d-etudes-france-excellence"
   title = "Excellence Scholarship from the French government: Master's level"
   url = "https://www.maurice.campusfrance.org/bourses-d-etudes"
   certificate_url = ""
