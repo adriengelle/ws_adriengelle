@@ -70,3 +70,6 @@ supplemental food (Tollington et al., 2018).
 * The Echo Parakeet project is the world’s most successful parrot recovery programme.
 
 More information about the project on [Mauritian Wildlife Foundation](https://www.mauritian-wildlife.org/projects/ "Mauritian Wildlife Foundation website").
+
+## Acknowledgement
+The monitoring and management of the Echo parakeet population is part of a long-term species recovery programme conducted by the Mauritian Wildlife Foundation (MWF), with support from the Institute of Zoology (ZSL), University of Kent, and Durrell Wildlife Conservation Trust. All data was provided by MWF.
