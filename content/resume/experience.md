@@ -20,7 +20,7 @@ date_format = "January 2006"
 [[experience]]
 title = "Conference talk"
 company = "Mauritian Conservation Science and Management Meeting 2025"
-company_url = "https://www.mauritian-wildlife.org/"
+company_url = "https://www.linkedin.com/posts/durrell-institute-of-conservation-and-ecology-university-of-kent_earlycareerresearchers-dicewrites-wildlifeconservation-activity-7368221168002035712-B5vG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABirQP4B0pzp1C2wUFlxDPJDT9HPN_Pkc9k"
 location = "University of Kent, Canterbury, UK"
 date_start = "2025-06-03"
 date_end = "2025-06-05"
