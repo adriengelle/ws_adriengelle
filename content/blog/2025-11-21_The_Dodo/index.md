@@ -18,7 +18,7 @@ tags: ["extinction", "Mauritius", "conservation", "Dodo"]
 
 
 ## Introduction
-When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (clostest living relative being the [Nicobar pigeon](https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica). Within decades, this remarkable creature would vanish forever...
+When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (clostest living relative being the [Nicobar pigeon](https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica)). Within decades, this remarkable creature would vanish forever...
 ![Copper engraving of Dutch activity on Mauritius in 1598](arrival.jpg)
 *Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)*
 
