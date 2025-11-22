@@ -14,22 +14,22 @@ tags: ["extinction", "Mauritius", "conservation", "Dodo"]
 - [Dead as a Dodo](#dead-as-a-dodo)
 - [The Great Chain of Being](#the-great-chain-of-being)
 - [The Dodo that never was...](#the-dodo-that-never-was)
-- [References and further reading] (#references)
+- [References and further reading](#references)
 
 
 ## Introduction
-When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (clostest living relative being the [Nicobar pigeon] (https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica). Within decades, this remarkable creature would vanish forever...
+When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (closest living relative being the [Nicobar pigeon](https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica). Within decades, this remarkable creature would vanish forever...
 ![Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)](arrival.jpg)
 *Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)*
 
 ## Dead as a Dodo
-The dodo's extinction happened very rapidly, with the last sightings occurring between 1662 and 1680. This rapid decline and disapearance was driven by direct hunting and, more significantly, by the introduction of invasive species such as cats, dogs, pigs, and rats , which preyed on dodo nests and juveniles.
+The dodo's extinction happened very rapidly, with the last sightings occurring between 1662 and 1680. This rapid decline and disappearance was driven by direct hunting and, more significantly, by the introduction of invasive species such as cats, dogs, pigs, and rats , which preyed on dodo nests and juveniles.
 
 ![The Dodo and the Guinea Pig](the_dodo_and_the_guinea_pig.jpg)
 *The Dodo and the Guinea Pig, George Edwards (1757)*
 
 ## The Great Chain of Being
-The dodo needed to wait a century and a half befofe its extinction being recognized.
+The dodo needed to wait a century and a half before its extinction being recognized.
 In the days of naturalists like Cuvier and Buffon, the  concept of extinction was religiously wrong. 
 If God had created all of nature according to a divine plan at the beginning, it would seem irrational for him to let some parts of that creation being wiped out. 
 "The Great Chain of Being" (*scala naturae*): life was fundamentally perfect and unchangeable. In other words, the concept of "extinction" was considered impossible...Species might move to unexplored regions, but they could not simply cease to exist.
