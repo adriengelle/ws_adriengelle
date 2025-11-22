@@ -4,8 +4,8 @@ date: '2025-11-21'
 output: html_document
 excerpt: "The story of the dodo's rapid extinction and the fascinating case of scientific confusion that created a 'ghost' species on Réunion Island."
 image:
-  caption: ""
-  alt: ""
+  caption: "Drawing of a Dodo"
+  alt: "Dodo"
 tags: ["extinction, "Mauritius", "conservation", "Dodo"]
 ---
 
