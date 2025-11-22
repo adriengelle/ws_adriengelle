@@ -43,7 +43,7 @@ For over a century, scientists believed that a second species of dodo had lived 
 ![Albinos dodo](albinos_dodo.jpg)
 *Reunion white dodo (Raphus solitarus), watercolour drawing by Pieter Holsteyn II (1614-1687), undated.*
 
-The confusion persisted for decades. This supposed "Réunion white dodo" was given various scientific names, including *Raphus solitarius*
+The confusion persisted for decades. This supposed "Réunion white dodo" was given various scientific names, including *Raphus solitarius*.
 Modern investigations by Arturo Valledor de Lozoya (2003) and Anthony Cheke and Julian Hume (2004) unraveled the mystery:
 1. **The paintings described a Mauritian dodo**, not a Réunion species. Holsteyn's and Withoos's white dodo images were based on an earlier 1611 painting by Roelant Savery, which showed a whitish specimen from the Prague collection of Holy Roman Emperor Rudolf II. This was likely a pale or albino individual of the Mauritian dodo (*Raphus cucullatus*).
 
