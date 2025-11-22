@@ -18,12 +18,12 @@ tags: ["extinction", "Mauritius", "conservation", "Dodo"]
 
 
 ## Introduction
-When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (closest living relative being the [Nicobar pigeon](https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica). Within decades, this remarkable creature would vanish forever...
-![Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)](arrival.jpg)
+When Dutch sailors first landed on Mauritius in 1598, they encountered a peculiar flightless bird unlike anything in Europe. The dodo (*Raphus cucullatus*) had evolved in isolation, a ground-dwelling pigeon that had lost its ability to fly in the absence of predators (clostest living relative being the [Nicobar pigeon](https://datazone.birdlife.org/species/factsheet/nicobar-pigeon-caloenas-nicobarica). Within decades, this remarkable creature would vanish forever...
+![Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)](arrival.png)
 *Copper engraving of Dutch activity on Mauritius in 1598 from Het Tvveede Boeck (1601)*
 
 ## Dead as a Dodo
-The dodo's extinction happened very rapidly, with the last sightings occurring between 1662 and 1680. This rapid decline and disappearance was driven by direct hunting and, more significantly, by the introduction of invasive species such as cats, dogs, pigs, and rats , which preyed on dodo nests and juveniles.
+The dodo's extinction happened very rapidly, with the last sightings occurring between 1662 and 1680. This rapid decline and disappearance was driven by direct hunting and, more significantly, by the introduction of invasive species such as cats, dogs, pigs, and rats, which preyed on dodo nests and juveniles.
 
 ![The Dodo and the Guinea Pig](the_dodo_and_the_guinea_pig.jpg)
 *The Dodo and the Guinea Pig, George Edwards (1757)*
