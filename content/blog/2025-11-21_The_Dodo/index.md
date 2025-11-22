@@ -6,7 +6,7 @@ excerpt: "The story of the dodo's rapid extinction and the fascinating case of s
 image:
   caption: "Drawing of a Dodo"
   alt: "Dodo"
-tags: ["extinction, "Mauritius", "conservation", "Dodo"]
+tags: ["extinction", "Mauritius", "conservation", "Dodo"]
 ---
 
 ## Table of Contents
