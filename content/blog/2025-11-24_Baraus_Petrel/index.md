@@ -1,5 +1,6 @@
 ---
 title: "Barau’s Petrel: Réunion’s Endangered Seabird and Cultural Icon"
+author: "Vincent Haorau & Adrien Gellé"
 date: '2025-11-24'
 output: html_document
 excerpt: "Meet the Barau Petrel (*Pterodroma baraui*), an ocean wanderer and mountain dweller whose survival story is as dramatic as the landscapes it inhabits."
@@ -28,7 +29,7 @@ This species is strictly endemic to Réunion Island, nesting in remote, high-alt
 *Approximate breeding distribution of Barau’s Petrel (Pterodroma baraui) on the two central massifs of Réunion Island, Piton des Neiges and Grand Bénare (Pinet et al., 2009)*
 
 ## Conservation Status and Threats
-The IUCN lists Barau’s Petrel as Endangered, with an estimated population of 30,000–40,000 mature individuals and a declining trend. (BirdLife International, 2018). Its survival is impacted by: 
+The IUCN lists Barau’s Petrel as Endangered, with an estimated population of 30,000–40,000 mature individuals and a declining trend (BirdLife International, 2018). Its survival is impacted by: 
 
 1. **Light Pollution**: Fledglings mistake city lights for moonlight guiding them to the sea, leading to fatal grounding. Up to 40% of fledglings are affected each season. 
 2. **Introduced Predators**: Feral cats and rats prey on eggs, chicks, and even adults. Modeling suggests extinction within 100 years without cat control (Pinet et al., 2009) 
@@ -41,7 +42,7 @@ Known locally as “*taille-vent*” or “*fouquet*,” the Barau Petrel is mor
 Today, the species symbolizes ecological pride. Community-led rescue campaigns, such as “Nuits sans lumière” (Lights-Off Nights), uniting schools, associations, and municipalities to save the species. These events have become powerful moments of environmental awareness, reinforcing the bond between people and nature.
 
 ## Conservation Efforts
-The fight to save Barau’s Petrel is spearheaded by the LIFE+ Pétrels program, a €3.1 million EU-funded initiative that brings together the Parc National de La Réunion, SEOR (Société d’Études Ornithologiques de La Réunion), and other partners. Actions include:
+The fight to save Barau’s Petrel is funded by the LIFE+ Pétrels program, a €3.1 million EU-funded initiative that brings together the Parc National de La Réunion, SEOR (Société d’Études Ornithologiques de La Réunion), and other partners. Actions include:
 
 1. Predator control in breeding colonies.
 2. Public awareness campaigns to reduce light pollution.
@@ -50,13 +51,23 @@ The fight to save Barau’s Petrel is spearheaded by the LIFE+ Pétrels program,
 ## References and further reading
 
 BirdLife International, 2018. Species factsheet: Barau’s Petrel Pterodroma baraui [WWW Document]. BirdLife DataZone. URL https://datazone.birdlife.org/species/factsheet/baraus-petrel-pterodroma-baraui (accessed 11.24.25).
+
 Grand-mère Kalle : la légende de la terrifiante sorcière Grand-mère Kalle : la légende de la terrifiante sorcière [WWW Document], n.d. . Île de la Réunion Tourisme. URL https://www.reunion.fr/decouvrez/histoires-et-fables/la-legende-de-grand-mere-kalle/ (accessed 11.24.25).
+
 Jouanin, C., Gill, F.B., 1967. Recherche du pétrel de Barau Pterodroma baraui. Oiseau Rev Fr Ornithol 37, 1–19.
+
 Le Pétrel de Barau | Parc national de la Réunion [WWW Document], n.d. URL https://www.reunion-parcnational.fr/fr/des-connaissances/la-faune/la-faune-indigene/le-petrel-de-barau (accessed 11.24.25).
+
 Legrand, B., Benneveau, A., Jaeger, A., Pinet, P., Potin, G., Jaquemet, S., Le Corre, M., 2016. Current wintering habitat of an endemic seabird of Réunion Island, Barau’s petrel Pterodroma baraui, and predicted changes induced by global warming. Mar. Ecol. Prog. Ser. 550, 235–248. https://doi.org/10.3354/meps11710
+
 Life + Pétrel | Parc national de la Réunion [WWW Document], n.d. URL https://www.reunion-parcnational.fr/fr/des-actions/proteger-et-gerer/les-projets-de-conservation/life-petrel (accessed 11.24.25).
+
 LIFE 3.0 - LIFE Project Public Page [WWW Document], n.d. URL https://webgate.ec.europa.eu/life/publicWebsite/project/LIFE13-BIO-FR-000075/halting-the-decline-of-endemic-petrels-from-reunion-island-demonstration-of-large-scale-innovative-conservation-actions (accessed 11.24.25).
+
 Mayr, E., 1971. New species of birds described from 1956 to 1965. Journal für Ornithologie.
+
 Nuits sans lumière 2025 : campagne de sauvetage des Pétrel de Barau | Mairie de Saint-Pierre [WWW Document], n.d. URL https://www.saintpierre.re/tous/nuits-sans-lumiere-2025-campagne-de-sauvetage-des-petrel-de-barau (accessed 11.24.25).
+
 Pinet, P., Salamolard, M., Probst, J.-M., Russell, J.C., Jaquemet, S., Corre, M.L., 2009. Barau’s petrel (Pterodroma baraui): history, biology and conservation of an endangered endemic petrel.
+
 Van Den Berg, A.B., Smeenk, C., Bosman, C.A.W., Haase, B.J.M., Van Der Niet, A.M., Cadée, G.C., 1991. Barau’s Petrel Pterodroma baraui, Jouanin’s Petrel Bulweria fallax and other seabirds in the northern Indian Ocean in June–July 1984 and 1985. Ardea 79, 1–14.
