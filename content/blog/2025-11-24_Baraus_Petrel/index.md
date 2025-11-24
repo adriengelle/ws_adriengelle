@@ -1,5 +1,5 @@
 ---
-title: "Barau’s Petrel: Réunion’s Endangered Seabird and Cultural Icon"
+title: "Barau’s Petrel: Reunion’s Endangered Seabird and Cultural Icon"
 author: "Vincent Hoarau & Adrien Gellé"
 date: '2025-11-24'
 output: html_document
@@ -21,6 +21,11 @@ tags: ["endangered", "Reunion", "conservation", "petrel"]
 
 ## A Brief History
 The Barau’s Petrel was only formally described in 1964 by Christian Jouanin (Jouanin and Gill, 1967; Mayr, 1971), making it one of the most recently discovered seabird species, despite being well-known to local communities for centuries. Its name honors Armand Barau, a Réunion-born ornithologist and agricultural engineer who contributed significantly to the island’s natural history. 
+
+
+![Barau’s Petrel cavity](barau_1.png)
+*Nesting Cavity of Barau’s Petrel (Pterodroma baraui) in the Grand Bénare colony (©Merlène Saunier)*
+
 
 ## Range and Endemism
 This species is strictly endemic to Réunion Island, nesting in remote, high-altitude colonies between 2,200 and 2,800 meters on volcanic massifs such as Piton des Neiges and Grand Bénare. These burrows, dug into soft volcanic soil, are among the most inaccessible seabird nesting sites in the world. After breeding, Barau Petrels migrate thousands of kilometers across the Indian Ocean, reaching areas near Madagascar, South Africa, and even the Ninety East Ridge, with only one nest found on Rodrigues Island at low altitude (Van Den Berg et al., 1991). 
@@ -47,6 +52,9 @@ The fight to save Barau’s Petrel is funded by the LIFE+ Pétrels program, a �
 1. Predator control in breeding colonies.
 2. Public awareness campaigns to reduce light pollution.
 3. Scientific monitoring of nesting sites and migration routes. 
+
+![Barau’s Petrel egg](barau_2.png)
+*Adult Barau’s Petrel (Pterodroma baraui) incubating egg in Grand Bénare colony (©Merlène Saunier)*
 
 ## References and further reading
 
