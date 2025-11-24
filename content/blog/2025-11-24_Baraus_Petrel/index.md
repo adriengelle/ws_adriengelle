@@ -10,12 +10,12 @@ tags: ["endangered", "Reunion", "conservation", "petrel"]
 ---
 
 ## Table of Contents
-- [A Brief History](#A-Brief-History)
-- [Range and Endemism](#Range-and-Endemism)
-- [Conservation Status and Threats](#Conservation-Status-and-Threats)
-- [Socio-Cultural Significance](#Socio-Cultural-Significance)
+- [A Brief History](#a-brief-history)
+- [Range and Endemism](#range-and-endemism)
+- [Conservation Status and Threats](#conservation-status-and-threats)
+- [Socio-Cultural Significance](#cocio-cultural-significance)
 - [Conservation Efforts](#conservation-efforts)
-- [References and further reading](#References-and-further-reading)
+- [References and further reading](#references-and-further-reading)
 
 
 ## A Brief History

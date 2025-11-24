@@ -14,7 +14,7 @@ tags: ["extinction", "Mauritius", "conservation", "Dodo"]
 - [Dead as a Dodo](#dead-as-a-dodo)
 - [The Great Chain of Being](#the-great-chain-of-being)
 - [The Dodo that never was...](#the-dodo-that-never-was)
-- [References and further reading](#references)
+- [References and further reading](#References-and-further-reading)
 
 
 ## Introduction
