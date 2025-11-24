@@ -1,6 +1,6 @@
 ---
 title: "Barau’s Petrel: Réunion’s Endangered Seabird and Cultural Icon"
-author: "Vincent Haorau & Adrien Gellé"
+author: "Vincent Hoarau & Adrien Gellé"
 date: '2025-11-24'
 output: html_document
 excerpt: "Meet the Barau Petrel (*Pterodroma baraui*), an ocean wanderer and mountain dweller whose survival story is as dramatic as the landscapes it inhabits."
