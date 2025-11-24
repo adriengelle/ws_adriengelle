@@ -23,7 +23,7 @@ tags: ["endangered", "Reunion", "conservation", "petrel"]
 The Barau’s Petrel was only formally described in 1964 by Christian Jouanin (Jouanin and Gill, 1967; Mayr, 1971), making it one of the most recently discovered seabird species, despite being well-known to local communities for centuries. Its name honors Armand Barau, a Réunion-born ornithologist and agricultural engineer who contributed significantly to the island’s natural history. 
 
 
-![Barau’s Petrel cavity](barau_1.png)
+![Barau’s Petrel cavity](barau_1.jpg)
 *Nesting Cavity of Barau’s Petrel (Pterodroma baraui) in the Grand Bénare colony (©Merlène Saunier)*
 
 
@@ -53,7 +53,7 @@ The fight to save Barau’s Petrel is funded by the LIFE+ Pétrels program, a �
 2. Public awareness campaigns to reduce light pollution.
 3. Scientific monitoring of nesting sites and migration routes. 
 
-![Barau’s Petrel egg](barau_2.png)
+![Barau’s Petrel egg](barau_2.jpg)
 *Adult Barau’s Petrel (Pterodroma baraui) incubating egg in Grand Bénare colony (©Merlène Saunier)*
 
 ## References and further reading
