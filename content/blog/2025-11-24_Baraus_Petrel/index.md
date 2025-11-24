@@ -2,7 +2,7 @@
 title: "Barau’s Petrel: Réunion’s Endangered Seabird and Cultural Icon"
 date: '2025-11-24'
 output: html_document
-excerpt: "Meet the Barau Petrel (Pterodroma baraui), an ocean wanderer and mountain dweller whose survival story is as dramatic as the landscapes it inhabits."
+excerpt: "Meet the Barau Petrel (*Pterodroma baraui*), an ocean wanderer and mountain dweller whose survival story is as dramatic as the landscapes it inhabits."
 image:
   caption: "Drawing of a Barau Petrel"
   alt: "Barau's Petrel"
@@ -10,12 +10,12 @@ tags: ["endangered", "Reunion", "conservation", "petrel"]
 ---
 
 ## Table of Contents
-- [A Brief History](#introduction)
-- [Range and Endemism](#range)
-- [Conservation Status and Threats](#status)
-- [Socio-Cultural Significance](#socio-cultural)
+- [A Brief History](#A-Brief-History)
+- [Range and Endemism](#Range-and-Endemism)
+- [Conservation Status and Threats](#Conservation-Status-and-Threats)
+- [Socio-Cultural Significance](#Socio-Cultural-Significance)
 - [Conservation Efforts](#conservation-efforts)
-- [References and further reading](#references)
+- [References and further reading](#References-and-further-reading)
 
 
 ## A Brief History
