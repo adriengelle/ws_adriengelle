@@ -8,6 +8,16 @@ image:
   caption: "Drawing of a Barau Petrel"
   alt: "Barau's Petrel"
 tags: ["endangered", "Reunion", "conservation", "petrel"]
+links:
+
+- icon: book-open
+  icon_pack: fas
+  name: Docs
+  url: https://datazone.birdlife.org/species/factsheet/echo-parakeet-alexandrinus-eques
+- icon: file-audio
+  icon_pack: fas
+  name: Call
+  url: https://xeno-canto.org/155383/embed?simple=1%27%20scrolling=%27no%27%20frameborder=%270%27%20width=%27340%27%20height=%27115
 ---
 
 ## Table of Contents
