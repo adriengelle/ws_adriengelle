@@ -139,11 +139,11 @@ enableEmoji = true
     title = "About me"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Download CV"
-    title = "Download full CV"
-    url = "/pdf/cv.pdf"
-    weight = 6
+  #[[menu.header]]
+    #name = "Download CV"
+    #title = "Download full CV"
+    #url = "/pdf/cv.pdf"
+    #weight = 6
   [[menu.header]]
     name = "Projects"
     title = "Projects"
