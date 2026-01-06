@@ -4,5 +4,6 @@ summary: My experience
 title: "*curriculum vitae*"
 description: "I am a PhD student at Nottingham Trent University"
 aliases: [bio]
-
 ---
+
+For a PDF version of the CV please download [here](/pdf/cv.pdf).
