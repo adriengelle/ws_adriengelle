@@ -14,6 +14,8 @@ These are the projects on which I worked
 **Gellé, A.**, Fontaine, B., Jiguet, F., Lagrange, P., Gilg, O., 2026. Effectiveness of nature reserves in France in protecting common birds: Evidence from long-term monitoring. Biological Conservation 319, 111907. https://doi.org/10.1016/j.biocon.2026.111907
 [<i class="fa-solid fa-link"></i>](https://www.sciencedirect.com/science/article/pii/S0006320726002193)
 
+Dilshan, Y., **Gellé, A.**, 2026. Empowering communities through biodiversity dashboards: A case study from Kumbalgama Tank, Sri Lanka.
+
 **Gellé, A.**, Henshaw, S., Tatayah, V., 2021. Where have all the birds gone? - A multi-species approach to confirm distribution of threatened Mauritian birds in the Bambou Mountains (Mauritius) in the aftermath of Covid-19, through AudioMoth.
 [<i class="fa-solid fa-file-pdf"></i>](pdf/2021_MWF_audiomoth.pdf)
 [<i class="fa-solid fa-link"></i>](https://www.africanbirdclub.org/wp-content/uploads/2023/02/Mauritius-threatened-birds_AudioMoth_ABC-final-project-report.pdf)
