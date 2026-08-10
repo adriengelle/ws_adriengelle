@@ -11,6 +11,9 @@ These are the projects on which I worked
 <script src="https://kit.fontawesome.com/4cd9712f70.js" crossorigin="anonymous"></script>
 ---
 
+**Gellé, A.**, Nicoll, M.A.C., Kettel, E.F., Pernetta, A.P., Gath, H., Groombridge, J., Henshaw, S., Jones, C.G., Ruhomaun, K., Tatayah, V., Norris, K., Tollington, S., 2026. Demographic responses to population recovery illustrated by 30 years of monitoring a once critically endangered parrot. Journal of Applied Ecology 63, e70523. https://doi.org/10.1111/1365-2664.70523
+[<i class="fa-solid fa-link"></i>](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70523)
+
 **Gellé, A.**, Fontaine, B., Jiguet, F., Lagrange, P., Gilg, O., 2026. Effectiveness of nature reserves in France in protecting common birds: Evidence from long-term monitoring. Biological Conservation 319, 111907. https://doi.org/10.1016/j.biocon.2026.111907
 [<i class="fa-solid fa-link"></i>](https://www.sciencedirect.com/science/article/pii/S0006320726002193)
 
