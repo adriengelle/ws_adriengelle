@@ -28,5 +28,15 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  company = "Nottingham Trent University"
+  company_url = "https://www.ntu.ac.uk/research/research-and-impact/open-research/open-research-awards"
+  title = "Open Research Awards 2026"
+  url = "https://www.ntu.ac.uk/research/research-and-impact/open-research/open-research-awardss"
+  certificate_url = ""
+  date_start = "2026-06-01"
+  date_end = ""
+  description = ""
 
 +++
