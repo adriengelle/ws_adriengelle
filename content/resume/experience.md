@@ -18,13 +18,22 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Demonstrator in Research Skills"
+  title = "Demonstrator in Research Skills, Python and GIS"
   company = "Nottingham Trent University"
   company_url = "https://www.ntu.ac.uk/study-and-courses/academic-schools/animal,-rural-and-environmental-sciences"
   location = "Brackenhurst Campus, Southwell, UK"
   date_start = "2025-09-22"
-  date_end = "2025-12-06"
-  description = """Assisting academic staff in practical R workshops (data manipulation, statistics, reporting)
+  date_end = "2026-12-31"
+  description = """Assisting academic staff for Master's modules in practical R workshops (data manipulation, statistics, reporting), GIS and Python
+  """
+[[experience]]
+  title = "Peer reviewer for **Biological conservation**"
+  company = "Elsevier"
+  company_url = "https://www.sciencedirect.com/journal/biological-conservation"
+  location = "Online"
+  date_start = "2026"
+  date_end = ""
+  description = """Reviewing high-quality papers that advance the science and practice of conservation, or which demonstrate the application of conservation principles for natural resource management and policy.
   """
 [[experience]]
 title = "Conference talk"
