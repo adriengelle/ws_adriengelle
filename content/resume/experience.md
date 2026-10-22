@@ -27,7 +27,7 @@ date_format = "January 2006"
   description = """Assisting academic staff for Master's modules in practical R workshops (data manipulation, statistics, reporting), GIS and Python
   """
 [[experience]]
-  title = "Peer reviewer for **Biological conservation**"
+  title = "Peer reviewer for Biological conservation"
   company = "Elsevier"
   company_url = "https://www.sciencedirect.com/journal/biological-conservation"
   location = "Online"
