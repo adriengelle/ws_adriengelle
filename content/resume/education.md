@@ -29,7 +29,7 @@ date_format = "January 2006"
 "Map making and GIS",
 "Species distribution modelling (SDM)",
 "Movement models/home range analyses",
-"phylogenetics & tree building"]
+"Phylogenetics & tree building"]
 
 [[education]]
   title = "MSc in Biodiversity, Ecology, Evolution"
