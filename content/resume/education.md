@@ -18,6 +18,20 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[education]]
+  title = "Ecology in R"
+  company = "Udemy (Russell J Gray)"
+  company_url = "https://www.udemy.com/course/ecology-in-r/"
+  location = "Online"
+  date_end = "2022-09-20"
+  description = """ """
+  bullets = [
+"Ecological data-mining",
+"Map making and GIS",
+"Species distribution modelling (SDM)",
+"Movement models/home range analyses",
+"phylogenetics & tree building"]
+
+[[education]]
   title = "MSc in Biodiversity, Ecology, Evolution"
   company = "Sorbonne University"
   company_url = "https://sciences.sorbonne-universite.fr/en/sorbonne-universite-campus-pierre-et-marie-curie"
