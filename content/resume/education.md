@@ -20,7 +20,7 @@ date_format = "January 2006"
 [[education]]
   title = "Ecology in R"
   company = "Udemy (Russell J Gray)"
-  company_url = "https://www.udemy.com/course/ecology-in-r/"
+  company_url = "ude.my/UC-e7fd59f5-ef3e-4d6f-a7e1-fd1ff52055a9"
   location = "Online"
   date_end = "2022-09-20"
   description = """ """
